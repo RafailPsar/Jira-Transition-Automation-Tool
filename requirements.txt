@@ -1,0 +1,5 @@
+# The list below contains the libraries used for the script
+jira
+python-dotenv
+urllib3
+requests

@@ -1,0 +1,9 @@
+# Sensitive Data & Local Configuration
+# The .env file contains API keys and passwords and must NEVER be shared!
+.env
+
+# Python caches and virtual environments
+__pycache__/
+*.pyc
+venv/
+.venv/
