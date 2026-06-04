@@ -24,7 +24,7 @@ Copy the provided template (template.env) to create your local configuration fil
 Open the newly created .env file and fill in your specific details:
 1. JIRA_SERVER: The base URL of your Jira instance (e.g., https://jira.com).
 2. JIRA_TOKEN: Your Personal Access Token.
-3. JQL_QUERY: The search query (e.g., project = SSA AND labels = Sensified AND status = "READY FOR REVIEW").
+3. JQL_QUERY: The search query (e.g., project = "" AND labels = "" AND status = "READY FOR REVIEW").
 
 ### 4. Usage
 Once your configuration is complete, run the script from your terminal:
